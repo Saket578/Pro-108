@@ -1,0 +1,45 @@
+body{
+    background-color:greenyellow
+}
+
+.heading_div h2,h3,h4,p{
+    color:yellowgreen;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.heading_div{
+    background-color:red;
+}
+
+.heading_div p{
+    font-size:20px;
+    letter-spacing:2px;
+}
+
+h3,h4{
+    color:green;
+}
+
+#start{
+    height:50px;
+    width:150px;
+    font-family: 'Ysabeau Infant', sans-serif;
+    color:brown;
+    font-size:30px;
+    font-weight:bold;
+    margin-top:40px;
+}
+
+#img_show_lblbl{
+    height:300px;
+    width:300px;
+}
+
+.copyright_footer_div{
+    bottom:0;
+    position:fixed;
+    background-color:white;
+    color:black;
+    width:100%;
+    text-align:center;
+}
